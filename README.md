@@ -1,17 +1,4 @@
-# socion
+A design template code in Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# signin-signup-design-flutter
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-05-15 at 22 28 37](https://user-images.githubusercontent.com/60597290/168486021-4bb41938-7ad3-44b2-8c07-c55b76f3c64d.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-05-15 at 22 28 44](https://user-images.githubusercontent.com/60597290/168486034-beff6eff-4918-46af-96ef-a37a3d277d2b.png)
